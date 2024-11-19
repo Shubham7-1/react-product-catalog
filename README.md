@@ -22,6 +22,13 @@ This is a **frontend-only** e-commerce website built using **React.js**. The pro
 1. Clone this repository:
    ```bash
    git clone https://github.com/Shubham7-1/react-product-catalog.git
+2. Install dependencies:
+   ```bash
+   npm install
+3. Run server:
+    ```bash
+   npm start
+
 ## Project Structure
 react-product-catalog/
 │
